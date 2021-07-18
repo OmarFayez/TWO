@@ -30,13 +30,13 @@
 ## Run Project Local
 
 ### First Way
-#### Open Terminal And Write:-
+#### Open Terminal And Write
 - npm install -g live-server
-- cd your folder
+- cd Your project Folder
 - live-server 
 
 ### Second Way
-#### form VS Code:-
+#### form VS Code
 - Open Extensions
 - install Live Server
 - Right Click At Your File 
