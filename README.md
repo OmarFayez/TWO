@@ -34,7 +34,7 @@
 - npm install -g live-server
 - cd your folder
 - live-server 
-- 
+
 ### Second Way
 #### form VS Code:-
 - Open Extensions
